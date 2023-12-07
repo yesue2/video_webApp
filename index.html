@@ -3,15 +3,18 @@
   <head>
     <meta charset="utf-8">
     <title>test video player</title>
+    <link rel="stylesheet" href="css/styles.css" />
   </head>
   <body>
-    <video id="my_video" controls>
-      <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4" />
-    </video>
-    <div>
-      <button id="playerbtn">►</button>
-      <button id="backbtn" data-skip="-10">« 10s</button>
-      <button id="gobtn" data-skip="10">10s »</button>
+    <div class="video-container">
+      <video id="my_video" controls>
+        <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4" />
+      </video>
+      <div class="controls">
+        <button id="playerbtn"  class="button">►</button>
+        <button id="backbtn"  class="button" data-skip="-10">« 10s</button>
+        <button id="gobtn"  class="button" data-skip="10">10s »</button>
+      </div>
     </div>
     <script src="js/video-controls.js"></script>
   </body>
