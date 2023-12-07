@@ -7,8 +7,9 @@
 ---
 ### 구현 결과 화면
 > 재생 버튼 눌렀을 시
-![image](https://github.com/yesue2/video_webApp/assets/108323785/0e6d36ac-7843-4650-80ca-fcda315fb3d0)
+![image](https://github.com/yesue2/video_webApp/assets/108323785/9a63e351-8b94-4eed-83c2-94977230dffd)
+
 
 > 정지 버튼 눌렀을 시
-![image](https://github.com/yesue2/video_webApp/assets/108323785/c9648de9-9c2f-4032-a271-9d9497adb2e4)
+![image](https://github.com/yesue2/video_webApp/assets/108323785/c7397ee9-f3c0-4d8b-bcce-25ea466d9bda)
 
